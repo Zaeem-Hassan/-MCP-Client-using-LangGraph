@@ -14,6 +14,7 @@ It shows how an AI agent can call tools — both **local** and **cloud-hosted** 
 - ✔️ Maintaining **persistent conversation memory**
 
 ---
+## Watch demo here https://youtu.be/Ucy9dQ0iE-c
 
 ## Project Highlights
 
